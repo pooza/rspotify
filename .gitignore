@@ -2,5 +2,12 @@
 .yardoc
 doc
 pkg
+dist
 Gemfile.lock
 *.swp
+.fuse*
+*.log
+._*
+.DS_Store
+Thumbs.db
+.ruby-version
